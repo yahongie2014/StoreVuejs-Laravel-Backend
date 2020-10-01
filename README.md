@@ -9,7 +9,7 @@ Read the feed programmatically and categorize the messages according to the sent
 ---------------------------------
 >[JSON sample](http://www.donestore.store/api/products)
 --------------------------------------
->[Store Vuejs](http://www.donestore.store)
+>[Store Vuejs](https://safwatask.herokuapp.com)
 # How To start type :
 >Composer install
 >cp .env.example .env
