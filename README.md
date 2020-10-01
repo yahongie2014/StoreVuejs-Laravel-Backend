@@ -31,13 +31,13 @@ Read the feed programmatically and categorize the messages according to the sent
 
 #Or Visit
 ---------------
->[Online](http://www.donestore.store)
+>[Online](https://safwatask.herokuapp.com)
 
 >For Api Resource:
 ---------------------------
 Click On [API PostMan](https://documenter.getpostman.com/view/2836787/TVK5d25A)
 Will Appear That Data Like Image
-![alt tag](http://serinc.tech/Task/public/zx.png "Data Retrive from Api")
+![alt tag](http://serinc.online/Task/public/zx.png "Data Retrive from Api")
 --------------------------------
 >As Shown
 
